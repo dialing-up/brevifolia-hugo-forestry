@@ -6,7 +6,7 @@ fields:
   name: baseURL
   label: baseURL
   default: "/"
-  hidden: true
+  hidden: false
 - type: text
   name: languageCode
   label: languageCode
@@ -18,6 +18,6 @@ fields:
 - type: text
   name: theme
   label: theme
-  hidden: true
+  hidden: false
 pages:
 - config.toml
