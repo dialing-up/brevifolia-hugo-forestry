@@ -36,4 +36,5 @@ fields:
   label: Tags
   description: Add tags to categorize
 pages:
+- content/blog-posts/Folder/new-folder.md
 - content/blog-posts/default.md
