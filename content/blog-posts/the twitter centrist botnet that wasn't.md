@@ -55,7 +55,7 @@ After seeing a video from the channel encouraging its viewers to behave like a s
 
 First, just to verify whether the tool is accurate, I checked [my account](https://botsentinel.com/profile/2843690641) and the [Neoliberal Twitter account](https://botsentinel.com/profile/865004396681207809#) (both of which are decreed human/normal)
 
-Now to check the accounts in this subculture (the ratings are how confident Bot Sentinel is that the account is a bot rated by percentage)
+Now to check some of the accounts in this subculture (the ratings are how confident Bot Sentinel is that the account is a bot rated by percentage)
 
 | Account | Bot Rating |
 | --- | --- |
