@@ -32,11 +32,11 @@ And now I had three questions:
 
 **_1. What is LA Late?_**
 
-[LA Late](https://news.lalate.com/) seems to be a celebrity gossip/sports site that also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed 
+[LA Late](https://news.lalate.com/) seems to be a celebrity gossip/sports site that also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed rather unused... until the CARES Act got passed
 
 ![rather unused... until the CARES Act got passed](/images/screenshot-2020-12-12-233148.png)
 
-Nowadays, it is a rather prolific channel that looks 
+Nowadays, it is a rather prolific channel that looks like this:
 
 ![like this:](/images/screenshot-2020-12-12-173319.png)
 
