@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Dialing"
 date = 2020-12-13T12:00:00Z
 hero = "/images/purple-fire1.jpg"
 tags = []
