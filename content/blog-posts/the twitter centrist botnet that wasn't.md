@@ -3,7 +3,7 @@ author = ""
 date = 2020-12-13T05:00:00Z
 hero = "/images/purple-fire1.jpg"
 tags = []
-title = "An Odd Stimulus-Obsessed Twitter Centrist Subculture (That Might Just Be A Botnet)"
+title = "Stumbling Upon An Odd Stimulus-Obsessed Twitter Centrist Subculture (That Might Just Be A Botnet)"
 type = "blog"
 
 +++
