@@ -10,7 +10,7 @@ type = "blog"
 +++
 ## TL;DR:
 
-How a random Twitter reply led me down a minor rabbit hole, where I found what I initially thought was a _centrist pro-stimulus checks botnet_, but may also just be the centrist Boomer fans of a YouTube show of a Hollywood gossip site, desperate for stimulus money, tweeting under the hashtag #purplepower in very similar bot-like ways.
+How a random Twitter reply led me down a minor rabbit hole, where I found what I initially thought was a _centrist pro-stimulus checks botnet_, but may also just be a subculture of centrist Boomer fans of a YouTube show of a Hollywood gossip site, desperate for stimulus money, tweeting under the hashtag #purplepower in very similar bot-like ways.
 
 ## Introduction:
 
@@ -24,7 +24,7 @@ Now I got curious, because this account seemed to me like a bot, triggered by th
 
 ## Following the links:
 
-I clicked through to [the account](https://twitter.com/HopeCoble2), which has follows the [oddest set of accounts](https://twitter.com/HopeCoble2/following) (notably, none of the Zoomer accounts I was replying to were included in that assortment) and generally tweets tagging a lot of people very angrily, generally blaming politicians from both parties. There were another two things common to almost all the tweets, which are the hashtags [#PURPLEPOWER](https://twitter.com/hashtag/PURPLEPOWER) and [#LALATE](https://twitter.com/hashtag/LALATE).
+I clicked through to [the account](https://twitter.com/HopeCoble2), which has follows the [oddest set of accounts](https://twitter.com/HopeCoble2/following) (notably, none of the Zoomer accounts I was replying to were included in that assortment) and generally tweets tagging a lot of people very angrily, usually blaming politicians from both parties. There were another two things common to almost all the tweets, which are the hashtags [#PURPLEPOWER](https://twitter.com/hashtag/PURPLEPOWER) and [#LALATE](https://twitter.com/hashtag/LALATE).
 
 Here is [one more account](https://twitter.com/dividedwefall78) like this. And [one more](https://twitter.com/SusanMWoodward1). And [another](https://twitter.com/Idamae47414361). And [another](https://twitter.com/Afflictedband20). All tweeting in the same indignant way tagging 5-10 politicians and the two hashtags. Either I have found a centrist political botnet(!?) or a YouTube based centrist political subculture (!!??)
 
@@ -40,16 +40,33 @@ Nowadays, it is a rather prolific channel that looks like this:
 
 ![like this](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-173319.png)
 
-It has turned into a clickbaity advice content farm initially about getting the funds from the CARES Act and then into a 'news' channel laser-focused on the prospect of a second stimulus bill, fronted by a orange-tinged man who is [probably named Anthony Kling](https://www.imdb.com/title/tt11743084/). It seems like this is a relatively commonly searched question too:
+It has turned into a clickbaity advice content farm initially about getting the funds from the CARES Act and then into a 'news' channel laser-focused on the prospect of a second stimulus bill, fronted by a orange-tinged man who is [probably named Anthony Kling](https://www.imdb.com/title/tt11743084/). (This is a relatively commonly searched question too)
 
 ![](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233806.png)
 
-This change seems to be [rather lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel, TBF. 
+This change seems to be [rather lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel, TBF.
 
 **_2. What is 'Purple Power"_**
 
-"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc with actual knowledge of legislative machinations who have actually have influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits.
+"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc with actual knowledge of legislative machinations who actually _have_ influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits.
 
 **_3. Is the Twitter subculture a botnet?_**
 
-After seeing a video from the channel encouraging its viewers to behave like a swarm on Twitter, (I am unable to find it now because all the hashtags on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck, seems to be a change in strategy by the channel) 
+After seeing a video from the channel encouraging its viewers to behave like a swarm on Twitter*,  and this behavior not being much different from the reply-Boomers that quote tweet every article by tagging 10 politicians, I decided to look into whether or not this is an actual botnet by using [Bot Sentinel](https://botsentinel.com/).
+
+First, just to verify whether the tool is accurate, I checked [my account](https://botsentinel.com/profile/2843690641) and the [Neoliberal Twitter account](https://botsentinel.com/profile/865004396681207809#) (both of which are decreed human/normal)
+
+Now to check the accounts in this subculture (Rating go Human 0-100 Bot)
+
+| Account      | Bot Rating |
+| ----------- | ----------- |
+| [@HopeCoble2](https://mobile.twitter.com/HopeCoble2)  |  [45](https://botsentinel.com/profile/1220087220721328131)  |
+| [@dividedwefall78](https://mobile.twitter.com/dividedwefall78)  |  [83](https://botsentinel.com/profile/1319770487925460992)  |
+|[@susanmwoodward1](https://mobile.twitter.com/SusanMWoodward1) | [71](https://botsentinel.com/profile/1319497438332358657)|
+|[@Idamae47414361](https://mobile.twitter.com/Idamae47414361)|[68](https://botsentinel.com/profile/1326992646049566720)|
+|[@Daniell44384847](https://mobile.twitter.com/Daniell44384847)|[75](https://botsentinel.com/profile/2991264611)|
+|[@afflictedband20](https://mobile.twitter.com/Afflictedband20)|[95](https://botsentinel.com/profile/1083566707174711296)|
+
+
+
+\*I am unable to find it now because all the videos look the same and are named similarly and the hashtags on videos on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck (which seems to be a change in strategy by the channel). That video talked about something called the “Purple Power Caucus” where the people in the subculture used hashtags and supported each other by liking, following and retweeting each other and tagged politicians to get their attention.
