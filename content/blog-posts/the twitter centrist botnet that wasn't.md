@@ -32,13 +32,13 @@ And now I had three questions:
 
 **_1. What is LA Late?_**
 
-[LA Late](https://news.lalate.com/) seems to be a celebrity gossip/sports site that also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed rather unused... until the CARES Act got passed
+[LA Late](https://news.lalate.com/) seems to be a celebrity gossip/sports site that also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed 
 
-![](/images/screenshot-2020-12-12-233148.png)
+![rather unused... until the CARES Act got passed](/images/screenshot-2020-12-12-233148.png)
 
-Nowadays, it is a rather prolific channel that looks like this:
+Nowadays, it is a rather prolific channel that looks 
 
-![](/images/screenshot-2020-12-12-173319.png)
+![like this:](/images/screenshot-2020-12-12-173319.png)
 
 It has turned into a clickbaity content farm solely focused on the prospect of a second stimulus bill, fronted by a orange-tinged man who is [probably named Anthony Kling](https://www.imdb.com/title/tt11743084/). It seems like this is a relatively commonly searched question too:
 
