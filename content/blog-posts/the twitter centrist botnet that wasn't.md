@@ -7,9 +7,11 @@ title = "An Odd Stimulus-Obsessed Twitter Centrist Subculture (That Might Just B
 type = "blog"
 
 +++
+Special thanks to [@jenbanim](https://twitter.com/HopeCoble2) for the help and research.
+
 ## TL;DR:
 
-How a random Twitter reply led me down a minor rabbit hole, where I found what I initially thought was a _centrist pro-stimulus checks botnet_, but may also just be a subculture of centrist Boomer fans of a YouTube show of a Hollywood gossip site, desperate for stimulus money, tweeting under the hashtag #purplepower in very similar bot-like ways.
+How a random Twitter reply led me down a minor rabbit hole, where I found what I initially thought was a _centrist pro-stimulus checks botnet_, but may also just be a subculture of centrist Boomer fans of a YouTube show of a rebranded Hollywood gossip, desperate for stimulus money, tweeting under the hashtag #purplepower in very similar bot-like ways.
 
 ## Introduction:
 
@@ -25,13 +27,13 @@ Now I got curious, because this account seemed to me like a bot, triggered by th
 
 I clicked through to [the account](https://twitter.com/HopeCoble2), which has follows the [oddest set of accounts](https://twitter.com/HopeCoble2/following) (notably, none of the Zoomer accounts I was replying to were included in that assortment) and generally tweets tagging a lot of people very angrily, usually blaming politicians from both parties. There were another two things common to almost all the tweets, which are the hashtags [#PURPLEPOWER](https://twitter.com/hashtag/PURPLEPOWER) and [#LALATE](https://twitter.com/hashtag/LALATE).
 
-Here is [one more account](https://twitter.com/dividedwefall78) like this. And [one more](https://twitter.com/SusanMWoodward1). And [another](https://twitter.com/Idamae47414361). And [another](https://twitter.com/Afflictedband20). All tweeting in the same indignant way tagging 5-10 politicians and the two hashtags. Either I have found a centrist political botnet(!?) or a YouTube based centrist political subculture (!!??)
+Here is [one more account](https://twitter.com/dividedwefall78) like this. And [one more](https://twitter.com/SusanMWoodward1). And [another](https://twitter.com/Idamae47414361). And [another](https://twitter.com/Afflictedband20). All tweeting in the same indignant way tagging 5-10 politicians and the two hashtags. Either I have found a centrist political botnet or a YouTube based centrist political subculture.
 
 And now I had three questions:
 
 **_1. What is LA Late?_**
 
-[LA Late](https://news.lalate.com/) seems to be a celebrity gossip/sports site that also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed rather unused... until the CARES Act got passed
+[LA Late](https://news.lalate.com/) looks to be a celebrity gossip site that calls itself "[one of the nation’s most popular news wire services](https://news.lalate.com/about)" (It [isn't](https://www.alexa.com/siteinfo/lalate.com)) that also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed rather unused with only sporadic updates... until the CARES Act got passed
 
 ![rather unused... until the CARES Act got passed](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233148.png)
 
@@ -43,11 +45,11 @@ It has turned into a clickbaity advice content farm initially about getting the 
 
 ![](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233806.png)
 
-Though every video proclaiming that the second stimulus is at hand is rather disturbing, this change seems to be [quite lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel.
+Though every video proclaiming that the second stimulus is at hand is rather disturbing, this change has caused it to [gain popularity (especially in states like Oklahoma and West Virginia, probably the states worst hit economically)](https://trends.google.com/trends/explore?geo=US&q=lalate) and seems [quite lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel. The gossip website itself seems to have been abandoned, with no new posts since September.
 
 **_2. What is 'Purple Power"_**
 
-"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc who actually _have_ influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits. There is also an element of shared knowledge, where the viewers, as guided by the host, have navigated the confusing bureaucracy of the CARES Act and state initiatives to get the money that was theirs.
+"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc who actually _have_ influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits. There is also an element of [shared knowledge](https://twitter.com/sasha3149/status/1325513197256839171?s=20), where the viewers, as guided by the host, have navigated the confusing bureaucracy of the CARES Act and state initiatives to get the money that was theirs. The YouTube popularity that the channel has gained does seem genuine.
 
 **_3. Is this Twitter ‘subculture’ just a botnet?_**
 
@@ -66,17 +68,10 @@ Now to check some of the accounts in this subculture (the ratings are how confid
 | @Daniell44384847 | 75/Problematic |
 | @afflictedband20 | 95/Problematic |
 
-By this cursory analysis of these six accounts and observing the other accounts using the hashtag, the general behavior of the #purplepower group of accounts is that of a botnet. But a closer look at some of the accounts’ rating profile shows a rating history in which the account actually changes from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is [now seen](https://botsentinel.com/profile/1083566707174711296) as 95% chance of being a bot from 11% chance in the span of 2 months.
+By this cursory analysis of these six accounts and observing the other accounts using the hashtag, the general behavior of the #purplepower group of accounts is that of a botnet. Most of these are created in past few months and continually spam the same content.
 
-What this means is either that normal accounts got hacked for use by the botnet, or that people have changed their social media behavior in desperation for help to such an extent their accounts are not differentiable from bots anymore.
+Some of the accounts’ rating profile shows a rating history in which the account actually changes from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is [now seen](https://botsentinel.com/profile/1083566707174711296) as 95% chance of being a bot from 11% chance in the span of 2 months, which means that this account got hacked for use by botnets.
 
 ## Lessons learnt, if any
-
-I do not see any way to differentiate whether or not the stimulus-obsessed subculture around the LA Late media property is a human group or a botnet, and from that I have one of two lessons that can be learnt:
-
-1. Botnet harassment is now seen as acceptable against obscure political groupings since social media is seen as the driver of all politics
-2. For quite a while now, you could see bot-like reply accounts under most popular tweets, which are usually people begging for donations to their GoFundMes. You could also see the quote-tweeting accounts on the tweets if news accounts where people desperately tag 10-20 politicians to try to get their attention. This is just another evolution in that behavior, where people, who are being driven to the brink by the lack of a second stimulus see no other option but to behave as a botnet would to get the attention of politicians.
-
-_None of which seem to bode well for the future of politics._
 
 \*I am unable to find it now because all the videos look the same and are named similarly and the hashtags on videos on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck (which seems to be a change in strategy by the channel). That video talked about something called the “Purple Power Caucus” where the people in the subculture used hashtags and supported each other by liking, following and retweeting each other and tagged politicians to get their attention.
