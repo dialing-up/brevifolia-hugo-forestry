@@ -4,7 +4,7 @@ date = 2020-12-13T12:00:00Z
 draft = true
 hero = "/images/purple-fire1.jpg"
 tags = []
-title = "The "
+title = "An Odd Stimulus-Obsessed Twitter Centrist Subculture (That Might Just Be A Botnet)"
 type = "blog"
 
 +++
@@ -43,3 +43,13 @@ Nowadays, it is a rather prolific channel that looks like this:
 It has turned into a clickbaity advice content farm initially about getting the funds from the CARES Act and then into a 'news' channel laser-focused on the prospect of a second stimulus bill, fronted by a orange-tinged man who is [probably named Anthony Kling](https://www.imdb.com/title/tt11743084/). It seems like this is a relatively commonly searched question too:
 
 ![](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233806.png)
+
+This change seems to be [rather lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel, TBF. 
+
+**_2. What is 'Purple Power"_**
+
+"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc with actual knowledge of legislative machinations who have actually have influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits.
+
+**_3. Is the Twitter subculture a botnet?_**
+
+After seeing a video from the channel encouraging its viewers to behave like a swarm on Twitter, (I am unable to find it now because all the hashtags on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck, seems to be a change in strategy by the channel) 
