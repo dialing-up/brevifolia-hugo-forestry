@@ -38,7 +38,7 @@ And now I had three questions:
 
 Nowadays, it is a rather prolific channel that looks like this:
 
-![like this:](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-173319.png)
+![like this](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-173319.png)
 
 It has turned into a clickbaity content farm solely focused on the prospect of a second stimulus bill, fronted by a orange-tinged man who is [probably named Anthony Kling](https://www.imdb.com/title/tt11743084/). It seems like this is a relatively commonly searched question too:
 
