@@ -36,4 +36,5 @@ fields:
   label: Tags
   description: Add tags to categorize
 pages:
+- content/blog-posts/an-odd-stimulus-obsessed-twitter-centrist-subculture-that-might-just-be-a-botnet-copy.md
 - content/blog-posts/the twitter centrist botnet that wasn't.md
