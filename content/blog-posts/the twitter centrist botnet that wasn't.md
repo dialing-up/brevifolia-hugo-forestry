@@ -1,6 +1,6 @@
 +++
 author = ""
-date = 2020-12-13T12:00:00Z
+date = 2020-12-12T12:00:00Z
 hero = "/images/purple-fire1.jpg"
 tags = []
 title = "An Odd Stimulus-Obsessed Twitter Centrist Subculture (That Might Just Be A Botnet)"
