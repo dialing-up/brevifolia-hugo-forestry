@@ -44,29 +44,31 @@ It has turned into a clickbaity advice content farm initially about getting the 
 
 ![](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233806.png)
 
-This change seems to be [rather lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel, TBF.
+Though every video proclaiming that the second stimulus is at hand is rather disturbing, this change seems to be [quite lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel.
 
 **_2. What is 'Purple Power"_**
 
-"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc with actual knowledge of legislative machinations who actually _have_ influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits.
+"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc who actually _have_ influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits. There is also an element of shared knowledge, where the viewers, as guided by the host, have navigated the 
 
-**_3. Is the Twitter subculture a botnet?_**
+**_3. Is the Twitter ‘subculture’ just a botnet?_**
 
 After seeing a video from the channel encouraging its viewers to behave like a swarm on Twitter*,  and this behavior not being much different from the reply-Boomers that quote tweet every article by tagging 10 politicians, I decided to look into whether or not this is an actual botnet by using [Bot Sentinel](https://botsentinel.com/).
 
 First, just to verify whether the tool is accurate, I checked [my account](https://botsentinel.com/profile/2843690641) and the [Neoliberal Twitter account](https://botsentinel.com/profile/865004396681207809#) (both of which are decreed human/normal)
 
-Now to check the accounts in this subculture (Rating go Human 0-100 Bot)
+Now to check the accounts in this subculture (the ratings are how confident Bot Sentinel is that the account is a bot rated by percentage)
 
-| Account      | Bot Rating |
-| ----------- | ----------- |
-| [@HopeCoble2](https://mobile.twitter.com/HopeCoble2)  |  [45](https://botsentinel.com/profile/1220087220721328131)  |
-| [@dividedwefall78](https://mobile.twitter.com/dividedwefall78)  |  [83](https://botsentinel.com/profile/1319770487925460992)  |
-|[@susanmwoodward1](https://mobile.twitter.com/SusanMWoodward1) | [71](https://botsentinel.com/profile/1319497438332358657)|
-|[@Idamae47414361](https://mobile.twitter.com/Idamae47414361)|[68](https://botsentinel.com/profile/1326992646049566720)|
-|[@Daniell44384847](https://mobile.twitter.com/Daniell44384847)|[75](https://botsentinel.com/profile/2991264611)|
-|[@afflictedband20](https://mobile.twitter.com/Afflictedband20)|[95](https://botsentinel.com/profile/1083566707174711296)|
+| Account | Bot Rating |
+| --- | --- |
+| @HopeCoble2 | 45/Questionable |
+| @dividedwefall78 | 83/Problematic |
+| @susanmwoodward1 | 71/Disruptive |
+| @Idamae47414361 | 68/Disruptive|
+| @Daniell44384847 | 75/Problematic|
+| @afflictedband20 | 95/Problematic|
 
+  
+By this cursory analysis of these six accounts, the general behavior of the #purplepower group of accounts is that of a botnet. But a closer look at some of the accounts’ rating profile shows a rating history in which the account changes rating  from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is now seen as 95% chance of being a bot.
 
-
+  
 \*I am unable to find it now because all the videos look the same and are named similarly and the hashtags on videos on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck (which seems to be a change in strategy by the channel). That video talked about something called the “Purple Power Caucus” where the people in the subculture used hashtags and supported each other by liking, following and retweeting each other and tagged politicians to get their attention.
