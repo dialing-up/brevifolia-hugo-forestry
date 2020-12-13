@@ -47,7 +47,7 @@ Though every video proclaiming that the second stimulus is at hand is rather dis
 
 **_2. What is 'Purple Power"_**
 
-"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc who actually _have_ influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits. There is also an element of shared knowledge, where the viewers, as guided by the host, have navigated the
+"Purple Power," as best as I can tell from the videos and tweets, is a name for the viewers of the channel since red (Republicans) + blue (Democrats) together is _Purple_ and powerful. The general tone set by the host ([like in this video](https://www.youtube.com/watch?v=YdtS64UEH8Q)) seems to be that the viewers of the channels are a politically meaningful bloc who actually _have_ influenced politicians like Nancy Pelosi and Mitch McConnell who are, in the framing of the host and the subculture, either craven, incompetent, or just plain heartless about the plight of the viewers, who are in dire straits. There is also an element of shared knowledge, where the viewers, as guided by the host, have navigated the confusing bureaucracy of the CARES Act and state initiatives to get the money that was theirs.
 
 **_3. Is the Twitter ‘subculture’ just a botnet?_**
 
