@@ -16,9 +16,9 @@ How a random Twitter reply led me down a minor rabbit hole, where I found what I
 
 So there I was, randomly offering my political opinions in Twitter replies, when I got this response:
 
-![](/images/screenshot-2020-12-12-205927.png)
+![](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-205927.png)
 
-Closely read this odd response I got to my tweet. It seems to have been triggered because I mentioned the "Problem Solvers Caucus." While I was wrong that they were the cause in this case as they had proposed a bill which had UI and did not have stimulus checks, the exact opposite of the White House proposal, the response I have gotten criticizes the ~~Problem Solvers~~ "Problem Creators" caucus' bill (not the White House bill), very specifically its lack of stimulus checks and other features and has a recommended solution(!?) with a link to a [YouTube video](https://www.youtube.com/watch?v=qyS5JIpqKpk).
+Closely read this odd response I got to my tweet. It seems to have been triggered because I mentioned the "Problem Solvers Caucus" in my reply. While I was wrong that they were the cause in this case as they had proposed a bill which had UI and did not have stimulus checks, the exact opposite of the White House proposal, the response I have gotten criticizes the ~~Problem Solvers~~ "Problem Creators" caucus' bill (not the White House bill), very specifically its lack of stimulus checks and other funding and has a recommended solution(!?) with a link to a [YouTube video](https://www.youtube.com/watch?v=qyS5JIpqKpk).
 
 Now I got curious, because this account seemed to me like a bot, triggered by the mention of an obscure bipartisan grouping. If this _is_ a botnet, it is the oddest botnet I have ever seen. I decided to look in further.
 
@@ -40,6 +40,6 @@ Nowadays, it is a rather prolific channel that looks like this:
 
 ![like this](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-173319.png)
 
-It has turned into a clickbaity content farm solely focused on the prospect of a second stimulus bill, fronted by a orange-tinged man who is [probably named Anthony Kling](https://www.imdb.com/title/tt11743084/). It seems like this is a relatively commonly searched question too:
+It has turned into a clickbaity advice content farm initially about getting the funds from the CARES Act and then into a 'news' channel laser-focused on the prospect of a second stimulus bill, fronted by a orange-tinged man who is [probably named Anthony Kling](https://www.imdb.com/title/tt11743084/). It seems like this is a relatively commonly searched question too:
 
-![](/images/screenshot-2020-12-12-233806.png)
+![](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233806.png)
