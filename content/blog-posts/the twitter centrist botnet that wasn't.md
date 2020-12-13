@@ -66,17 +66,17 @@ Now to check some of the accounts in this subculture (the ratings are how confid
 | @Daniell44384847 | 75/Problematic |
 | @afflictedband20 | 95/Problematic |
 
-By this cursory analysis of these six accounts, the general behavior of the #purplepower group of accounts is that of a botnet. But a closer look at some of the accounts’ rating profile shows a rating history in which the account changes rating  from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is [now seen](https://botsentinel.com/profile/1083566707174711296) as 95% chance of being a bot from 11% chance in the span of 2 months.
+By this cursory analysis of these six accounts and observing the other accounts using the hashtag, the general behavior of the #purplepower group of accounts is that of a botnet. But a closer look at some of the accounts’ rating profile shows a rating history in which the account actually changes from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is [now seen](https://botsentinel.com/profile/1083566707174711296) as 95% chance of being a bot from 11% chance in the span of 2 months.
 
-What this means is either that normal accounts got hacked for use by the botnet, or (the disturbing option) that people have changed their social media behavior in desperation for help to such an extent their accounts are not differentiable from bots anymore.
+What this means is either that normal accounts got hacked for use by the botnet, or that people have changed their social media behavior in desperation for help to such an extent their accounts are not differentiable from bots anymore.
 
 ## Lessons learnt, if any
 
 I do not see any way to differentiate whether or not the stimulus-obsessed subculture around the LA Late media property is a human group or a botnet, and from that I have one of two lessons that can be learnt:
 
 1. Botnet harassment is now seen as acceptable against obscure political groupings since social media is seen as the driver of all politics
-2. For quite a while now, you could see reply accounts under most popular tweets, begging for donations to their GoFundMes. You could also see the quote-tweets on many news articles where people desperately tag 10-20 politicians to get their attention. This is just another evolution in that behavior, where people, who are being driven to the brink by the lack of a second stimulus see no other option but to behave as a botnet would to get the attention of their politicians.
+2. For quite a while now, you could see bot-like reply accounts under most popular tweets, which are usually people begging for donations to their GoFundMes. You could also see the quote-tweeting accounts on the tweets if news accounts where people desperately tag 10-20 politicians to try to get their attention. This is just another evolution in that behavior, where people, who are being driven to the brink by the lack of a second stimulus see no other option but to behave as a botnet would to get the attention of politicians.
 
-_None of which seem to bode well for the future_
+_None of which seem to bode well for the future of politics._
 
 \*I am unable to find it now because all the videos look the same and are named similarly and the hashtags on videos on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck (which seems to be a change in strategy by the channel). That video talked about something called the “Purple Power Caucus” where the people in the subculture used hashtags and supported each other by liking, following and retweeting each other and tagged politicians to get their attention.
