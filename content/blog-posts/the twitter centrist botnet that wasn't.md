@@ -59,9 +59,9 @@ After seeing a video from the channel encouraging its viewers to behave like a s
 
 First, just to verify whether the tool is accurate, I checked [my account](https://botsentinel.com/profile/2843690641) and the [Neoliberal Twitter account](https://botsentinel.com/profile/865004396681207809#) (both of which are decreed human/normal)
 
-Now to check some of the accounts in this subculture (the ratings are how confident Bot Sentinel is that the account is a bot rated by percentage)
+Now to check some of the accounts in this subculture (the ratings are how confident Bot Sentinel is that the account is a bot/spammer rated by percentage)
 
-| Account | Bot Rating |
+| Account | Rating |
 | --- | --- |
 | @HopeCoble2 | 45/Questionable |
 | @dividedwefall78 | 83/Problematic |
@@ -69,17 +69,23 @@ Now to check some of the accounts in this subculture (the ratings are how confid
 | @Idamae47414361 | 68/Disruptive |
 | @Daniell44384847 | 75/Problematic |
 | @afflictedband20 | 95/Problematic |
-|||
-|||
-|||
-|||
+| @Starlovey1Smith | 57/Disruptive |
+| @sasha3149 |  72/Disruptive|
+| @shalaooton | 5/Normal |
+| @RobinTyrell2 | 28/Questionable |
 
 By this analysis of these accounts and cursory observation of the other accounts using the hashtag, the general behavior of the #purplepower group of accounts is that of a botnet. Most of these were created in past few months and continually spam the same content.Some of the accounts’ rating profile shows a rating history in which the account actually changes from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is [now seen](https://botsentinel.com/profile/1083566707174711296) as 95% chance of being a bot from 11% chance in the span of 2 months, which means that this account and many of the old accounts in this subculture got hacked for use by botnets.
 
-## The content of the spam and the lessons learnt, if any
+## The content of the spam 
 
-The raison d'etre of this spam network seems to be [tweets](https://twitter.com/sasha3149/status/1336363249047113734?s=20) to [pressure politicians](https://twitter.com/Starlovey1Smith/status/1337886108571590657?s=20) to pass a stimulus bill, with links to the LALate channel. There are also many tweets [praising](https://twitter.com/RobinTyrell2/status/1334238724201312257?s=20) the [host of the channel](https://twitter.com/sasha3149/status/1325511937585786881?s=20) as a unifying political leader. 
+The _raison d'etre_ of this spam network seems to be [tweets](https://twitter.com/sasha3149/status/1336363249047113734?s=20) to [pressure politicians](https://twitter.com/Starlovey1Smith/status/1337886108571590657?s=20) to pass a stimulus bill, with links to the LALate channel. There are also many tweets [praising](https://twitter.com/RobinTyrell2/status/1334238724201312257?s=20) the [host of the channel](https://twitter.com/sasha3149/status/1325511937585786881?s=20) as a unifying political leader (!?).
 
-What has probably happened is that an unsuccesful gossip blogger has got obsessed with stimulus legislation, and has 
+What has probably happened is that an unsuccessful gossip blogger got completely obsessed with stimulus legislation, forgetting celebrity gossip and monomaniacally creating multiple videos on the subject every day. Since this change has resulted in moderate success for his channel and a small following, he has started to believe that he has created a centrist pro-stimulus political movement known as "Purple Power" which has [actual political influence and is now delusionally posing as a Presidental or CA Senate candidate-in-waiting.](https://twitter.com/LALATE/status/1325476626834976773) To further this supposed influence he has on Twitter, he seems to be paying for a botnet, clickfarm and/or is controlling multiple accounts himself, to spam at the chosen politicians and media figures, using his preferred hashtags. 
 
-\*I am unable to find it now because all the videos look the same and are named similarly and the hashtags on videos on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck (which seems to be a change in strategy by the channel). That video talked about something called the “Purple Power Caucus” where the people in the subculture used hashtags and supported each other by liking, following and retweeting each other and tagged politicians to get their attention.
+## Conclusions to draw from this, if any
+
+1. Stimulus bill needs to be passed because people are hurting, to the point of mental instability
+2. Nominal centrists can go insane too
+3. Centrist botnets _can_ exist. Wild!
+
+Note: \*I am unable to find it now because all the videos look the same and are named similarly and the hashtags on videos on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck (which seems to be a change in strategy by the channel). That video talked about something called the “Purple Power Caucus” where the people in the subculture used hashtags and supported each other by liking, following and retweeting each other and tagged politicians to get their attention.
