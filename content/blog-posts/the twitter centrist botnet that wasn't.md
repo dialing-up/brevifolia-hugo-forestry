@@ -7,7 +7,7 @@ title = "An Odd Stimulus-Obsessed Twitter Centrist Subculture (That Might Just B
 type = "blog"
 
 +++
-Special thanks to [@jenbanim](https://twitter.com/HopeCoble2) for the help and research.
+Special thanks to [@jenbanim](https://twitter.com/HopeCoble2) for the [helpful research and analysis.](https://www.reddit.com/r/neoliberal/comments/kc66ye/discussion_thread/gfoi4ve)
 
 ## TL;DR:
 
@@ -33,7 +33,9 @@ And now I had three questions:
 
 **_1. What is LA Late?_**
 
-[LA Late](https://news.lalate.com/) looks to be a celebrity gossip site that calls itself "[one of the nation’s most popular news wire services](https://news.lalate.com/about)" (It [isn't](https://www.alexa.com/siteinfo/lalate.com)) that also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed rather unused with only sporadic updates... until the CARES Act got passed
+[LA Late](https://news.lalate.com/) looks to be a celebrity gossip site that calls itself "[one of the nation’s most popular news wire services](https://news.lalate.com/about)" (It [isn't, obviously.](https://www.alexa.com/siteinfo/lalate.com)) The website supposedly has multiple staff, but all of those staff have Twitter accounts that just link articles from the site so this could just be a one-man operation.
+
+It also has an associated [YouTube channel](https://www.youtube.com/c/LALATE/videos) that seemed rather unused with only sporadic updates... until the CARES Act got passed
 
 ![rather unused... until the CARES Act got passed](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233148.png)
 
@@ -45,7 +47,7 @@ It has turned into a clickbaity advice content farm initially about getting the 
 
 ![](https://raw.githubusercontent.com/dialing-up/brevifolia-hugo-forestry/master/static/images/screenshot-2020-12-12-233806.png)
 
-Though every video proclaiming that the second stimulus is at hand is rather disturbing, this change has caused it to [gain popularity (especially in states like Oklahoma and West Virginia, probably the states worst hit economically)](https://trends.google.com/trends/explore?geo=US&q=lalate) and seems [quite lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel. The gossip website itself seems to have been abandoned, with no new posts since September.
+Though a channel where every video proclaims that the second stimulus is at hand is rather disturbing, this change has caused it to [gain popularity (especially in states like Oklahoma and West Virginia, probably the states worst hit economically)](https://trends.google.com/trends/explore?geo=US&q=lalate) and seems [quite lucrative](https://socialblade.com/youtube/user/lalatenews/monthly) for the channel. The gossip website itself seems to have been abandoned, with no new posts since September.
 
 **_2. What is 'Purple Power"_**
 
@@ -67,11 +69,17 @@ Now to check some of the accounts in this subculture (the ratings are how confid
 | @Idamae47414361 | 68/Disruptive |
 | @Daniell44384847 | 75/Problematic |
 | @afflictedband20 | 95/Problematic |
+|||
+|||
+|||
+|||
 
-By this cursory analysis of these six accounts and observing the other accounts using the hashtag, the general behavior of the #purplepower group of accounts is that of a botnet. Most of these are created in past few months and continually spam the same content.
+By this analysis of these accounts and cursory observation of the other accounts using the hashtag, the general behavior of the #purplepower group of accounts is that of a botnet. Most of these were created in past few months and continually spam the same content.Some of the accounts’ rating profile shows a rating history in which the account actually changes from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is [now seen](https://botsentinel.com/profile/1083566707174711296) as 95% chance of being a bot from 11% chance in the span of 2 months, which means that this account and many of the old accounts in this subculture got hacked for use by botnets.
 
-Some of the accounts’ rating profile shows a rating history in which the account actually changes from human to bot, most dramatically in the case of @afflictedband20, which seems to be the account of an [actual Christian Metal band](https://www.reverbnation.com/theafflicted2), but is [now seen](https://botsentinel.com/profile/1083566707174711296) as 95% chance of being a bot from 11% chance in the span of 2 months, which means that this account got hacked for use by botnets.
+## The content of the spam and the lessons learnt, if any
 
-## Lessons learnt, if any
+The raison d'etre of this spam network seems to be [tweets](https://twitter.com/sasha3149/status/1336363249047113734?s=20) to [pressure politicians](https://twitter.com/Starlovey1Smith/status/1337886108571590657?s=20) to pass a stimulus bill, with links to the LALate channel. There are also many tweets [praising](https://twitter.com/RobinTyrell2/status/1334238724201312257?s=20) the [host of the channel](https://twitter.com/sasha3149/status/1325511937585786881?s=20) as a unifying political leader. 
+
+What has probably happened is that an unsuccesful gossip blogger has got obsessed with stimulus legislation, and has 
 
 \*I am unable to find it now because all the videos look the same and are named similarly and the hashtags on videos on the youtube channel have changed yesterday from #purplepower to #Secondstimuluscheck (which seems to be a change in strategy by the channel). That video talked about something called the “Purple Power Caucus” where the people in the subculture used hashtags and supported each other by liking, following and retweeting each other and tagged politicians to get their attention.
